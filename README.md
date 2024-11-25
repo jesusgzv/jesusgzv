@@ -1,16 +1,14 @@
-## Hi there 👋
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jesusgzv&show_icons=true&theme=dark)](https://github.com/jesusgzv)
 
-<!--
-**jesusgzv/jesusgzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusgzv&layout=compact&theme=dark)](https://github.com/jesusgzv)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades Técnicas
+
+![Java](https://skillicons.dev/icons?i=java) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+
+## Contáctame
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jesusgonzalvezgarcia2005@gmail.com)
